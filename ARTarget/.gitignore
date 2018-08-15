@@ -24,6 +24,10 @@ ExportedObj/
 # Unity3D Generated File On Crash Reports
 sysinfo.txt
 
+#firebase
+firebase.json
+database.rules.json
+
 # Builds
 *.apk
 *.unitypackage
